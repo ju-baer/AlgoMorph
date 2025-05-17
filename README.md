@@ -4,12 +4,11 @@
 **AlgoMorph** is an interactive, web-based tool that lets you **visualize common algorithms and data structures** step by step that would help students, educators, and developers grasp the logic behind every transformation.
 
 ---
+![Synaptix Demo](image.png)
 
-<p align="center">
-  <img src="assets/algomorph-demo.png" alt="AlgoMorph Demo" width="700"/>
-  <br/>
-  <em>This is how AlgoMorph looks in action.</em>
-</p>
+*This is how Synaptix looks in action.*
+
+
 
 ---
 
@@ -86,8 +85,8 @@ AlgoMorph brings algorithms and data structures to life through **animated, real
 ### Run Locally
 
 ```bash
-git clone https://github.com/yourusername/algomorph.git
-cd algomorph
+git clone https://github.com/ju-baer/AlgoMorph
+cd AlgoMorph
 npm install
 npm run dev
 
