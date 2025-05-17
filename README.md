@@ -20,15 +20,17 @@ AlgoMorph brings algorithms and data structures to life through **animated, real
 
 ---
 
-## ⚙️ Features
+- ## ⚙️ Features
 
 - 🔍 **Step-by-Step Algorithm Tracing**
 - 🧮 **Data Structure Animations**: Arrays, Trees, Graphs, Stacks, Heaps, and more
+- ⚔️ **Comparison Mode**: Run two algorithms side-by-side and compare their behavior in real time
 - 🎨 **Custom Input Handling**: Modify data and watch it morph in real-time
 - 📊 **Code + Visual Sync**: Highlighted pseudocode alongside animations
 - ⏯️ **Playback Controls**: Pause, rewind, fast-forward, and speed sliders
 - 🧠 **Explainer Mode**: Tooltips and on-screen definitions
 - 🧪 **Quiz Mode** *(Coming Soon)*: Predict next steps, test your intuition
+
 
 ---
 
