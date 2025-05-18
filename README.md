@@ -4,6 +4,7 @@
 **AlgoMorph** is an interactive, web-based tool that lets you **visualize common algorithms and data structures** step by step that would help students, educators, and developers grasp the logic behind every transformation.
 
 ---
+## 🖼️ Preview
 ![AlgoMorph Demo](image.png)
 
 *This is how AlgoMorph looks in action.*
