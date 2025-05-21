@@ -85,6 +85,9 @@ AlgoMorph brings algorithms and data structures to life through **animated, real
 
 ## 🚀 Getting Started
 
+### 🌐 Live Demo
+Check the projct out at https://algo-morph.vercel.app/
+
 ### Run Locally
 
 ```bash
